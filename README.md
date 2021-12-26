@@ -2,4 +2,9 @@
 
 ML class 2021 second semister
 
-XGBoosting model
+
+mnist and 5,000 handwritten letters
+
+XGBoosting model 
+
+and random forest, kNN, SVM,,, etc.
